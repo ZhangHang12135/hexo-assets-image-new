@@ -1,0 +1,19 @@
+{
+  "name": "hexo-assets-image-new",
+  "version": "0.0.1",
+  "description": "new hexo image plugin from hexo-assets-images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }, 
+  "keywords": [
+    "hexo",
+    "img"
+  ],
+  "author": "zhanghang12135",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "entities": "^3.0.1"
+  }
+}
