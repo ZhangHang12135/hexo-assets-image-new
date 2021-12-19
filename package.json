@@ -1,6 +1,6 @@
 {
   "name": "hexo-assets-image-new",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "new hexo image plugin from hexo-assets-images",
   "main": "index.js",
   "scripts": {
