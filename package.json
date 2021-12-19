@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }, 
+  },
   "keywords": [
     "hexo",
     "img"
@@ -13,7 +13,14 @@
   "author": "zhanghang12135",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10",
-    "entities": "^3.0.1"
-  }
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangHang12135/hexo-assets-image-new.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZhangHang12135/hexo-assets-image-new/issues"
+  },
+  "homepage": "https://github.com/ZhangHang12135/hexo-assets-image-new#readme"
 }
